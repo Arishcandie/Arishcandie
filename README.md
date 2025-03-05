@@ -2,7 +2,7 @@
 
 **"Half developer, half caffeine-powered machine. 100% ready to build cool stuff."**  
 
-Hey there! 👋 I’m **Arish B**, an **AI and Data Science explorer** on a mission to make machines smarter and the web smoother. I love turning **wild ideas into working code**, and when I’m not busy debugging, I’m probably thinking about **the next big thing** (or just hunting for snacks 🍕).  
+Hey there! 👋 I’m **Arish B**, an **AI and Data Science explorer** on a mission to make machines smarter and the web smoother. I love turning **wild ideas into working code**, and when I’m not busy debugging, I’m probably thinking about **the next big thing** or just hunting for snacks 🍕.  
 
 ---
 
