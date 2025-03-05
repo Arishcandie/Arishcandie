@@ -1,4 +1,4 @@
-# 🚀 **Arish B | AI Dreamer, Code Breaker, Bug Slayer**  
+#  **Arish B | AI Dreamer, Code Breaker, Bug Slayer**  
 
 **"Half developer, half caffeine-powered machine. 100% ready to build cool stuff."**  
 
